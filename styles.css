@@ -1,0 +1,17 @@
+/* Friends of Girl Develop It Columbus styles */
+
+body {
+  padding: 1em;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
