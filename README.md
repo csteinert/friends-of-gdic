@@ -22,6 +22,10 @@ portion of the project as well!
 - [Atlassian - How to Install Git](https://www.atlassian.com/git/tutorials/install-git)
 
 
+
+
+
+
 ## To Git Started... (contributing to the project)
 If you have a Git installed and a GitHub account, you're ready to get started.
 
@@ -30,7 +34,8 @@ If you have a Git installed and a GitHub account, you're ready to get started.
 Click the fork button to create a copy of the repository in your GitHub account.
 
 ### Clone the Repository
-Click the "Clone or Download" button. Copy the link to your repository.
+In your forked repository, click the "Clone or Download" button. Copy the link to your repository.
+- you can tell that if the repository is yours if the link says ``` https://github.com/<your_user_name>/friends-of-gdic ```
 
 Open the console. 
 Navigate to the folder you want to place the repository (if necessary). 
