@@ -26,10 +26,10 @@ portion of the project as well!
 If you have a Git installed and a GitHub account, you're ready to get started.
 
 
-###Fork the Repository
+### Fork the Repository
 Click the fork button to create a copy of the repository in your GitHub account.
 
-###Clone the Repository
+### Clone the Repository
 Click the "Clone or Download" button. Copy the link to your repository.
 
 Open the console. 
