@@ -20,3 +20,26 @@ portion of the project as well!
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Codeschool - Git](https://www.codeschool.com/learn/git)
 - [Atlassian - How to Install Git](https://www.atlassian.com/git/tutorials/install-git)
+
+
+
+
+
+
+## To Git Started... (contributing to the project)
+If you have a Git installed and a GitHub account, you're ready to get started.
+
+
+### Fork the Repository
+Click the fork button to create a copy of the repository in your GitHub account.
+
+### Clone the Repository
+In your forked repository, click the "Clone or Download" button. Copy the link to your repository.
+- you can tell that if the repository is yours if the link says ``` https://github.com/<your_user_name>/friends-of-gdic ```
+
+Open the console. 
+Navigate to the folder you want to place the repository (if necessary). 
+Using the command console, enter the following command:
+```git clone <link to your repository>```
+
+And Voilá! The repository is cloned to your computer!
