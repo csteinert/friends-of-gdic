@@ -20,6 +20,7 @@ portion of the project as well!
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Codeschool - Git](https://www.codeschool.com/learn/git)
 - [Atlassian - How to Install Git](https://www.atlassian.com/git/tutorials/install-git)
+- [Github - Cloning a repository](https://help.github.com/articles/cloning-a-repository/)
 
 
 
