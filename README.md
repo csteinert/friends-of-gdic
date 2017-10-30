@@ -21,8 +21,7 @@ portion of the project as well!
 - [Codeschool - Git](https://www.codeschool.com/learn/git)
 - [Atlassian - How to Install Git](https://www.atlassian.com/git/tutorials/install-git)
 - [Github - Cloning a repository](https://help.github.com/articles/cloning-a-repository/)
-
-
+- [Udacity - How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
 
